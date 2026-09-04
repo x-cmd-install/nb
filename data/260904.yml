@@ -7,7 +7,7 @@ about:
   head: 22eaec7
   archived: false
   latestVersion: 7.25.5
-  collectedAt: 2026-09-04T19:54:58Z
+  collectedAt: 2026-09-04T20:53:49Z
 timeline:
   created: 2016-01-12
   lastCommit: 2026-08-22
@@ -82,6 +82,89 @@ total:
   openIssue: 142
   commit: 7852
 ---
+path: /home/runner/.x-repo/github.com/xwmx/nb
+collectedAt: 2026-09-04T20:53:53Z
+loc:
+  Bash:
+    code: 23259
+    comments: 2138
+    blanks: 3152
+    files: 14
+  Html:
+    code: 881
+    comments: 39
+    blanks: 105
+    files: 18
+  Go:
+    code: 595
+    comments: 158
+    blanks: 165
+    files: 7
+  Sass:
+    code: 500
+    comments: 21
+    blanks: 127
+    files: 1
+  Zsh:
+    code: 118
+    comments: 27
+    blanks: 29
+    files: 1
+  Json:
+    code: 72
+    comments: 0
+    blanks: 0
+    files: 3
+  Fish:
+    code: 63
+    comments: 29
+    blanks: 16
+    files: 1
+  JavaScript:
+    code: 40
+    comments: 0
+    blanks: 6
+    files: 3
+  Yaml:
+    code: 23
+    comments: 53
+    blanks: 14
+    files: 1
+  Org:
+    code: 14
+    comments: 0
+    blanks: 4
+    files: 1
+  Makefile:
+    code: 11
+    comments: 0
+    blanks: 2
+    files: 1
+  AsciiDoc:
+    code: 9
+    comments: 0
+    blanks: 5
+    files: 1
+  Ksh:
+    code: 3
+    comments: 2
+    blanks: 3
+    files: 1
+  Sh:
+    code: 3
+    comments: 7
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 12854
+    blanks: 3922
+    files: 10
+total:
+  code: 28639
+  comments: 16450
+  blanks: 8646
+  files: 64
 ---
 date: "2026-08-24"
 repo:
