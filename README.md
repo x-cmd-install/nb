@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,404 · **Forks**: 251 · **Open issues**: 331 · **Contributors**: 31
+- **Stars**: 8,405 · **Forks**: 252 · **Open issues**: 331 · **Contributors**: 31
 
 ## Totals (cumulative)
 
@@ -58,28 +58,18 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 3 | 1 |
-| last60d | 2026-07-15 | 1 | 0 | 0 | 0 | 3 | 22 |
-| 90d | 2026-06-15 | 1 | 0 | 0 | 0 | 3 | 23 |
-| last180d | 2026-03-17 | 2 | 0 | 0 | 0 | 3 | 29 |
-| 360d | 2025-09-18 | 15 | 3 | 4 | 12 | 25 | 124 |
-| last720d | 2024-09-23 | 20 | 14 | 5 | 33 | 34 | 326 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 3 | 1 |
+| last60d | 2026-07-16 | 1 | 0 | 0 | 0 | 3 | 22 |
+| 90d | 2026-06-16 | 1 | 0 | 0 | 0 | 3 | 23 |
+| last180d | 2026-03-18 | 2 | 0 | 0 | 0 | 3 | 27 |
+| 360d | 2025-09-19 | 13 | 3 | 4 | 12 | 25 | 117 |
+| last720d | 2024-09-24 | 20 | 14 | 5 | 33 | 34 | 326 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [nb](https://github.com/xwmx/nb/releases/download/7.25.5/nb) | 737.9 KiB | `other` |
-
-## Distribution status
-
-Reported by **20** distros on [repology.org](https://repology.org/project/nb). **4** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `7.25.5` | ✅ latest |
-| Nix unstable | `7.25.5` | ✅ latest |
-| Alpine edge | `7.24.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -90,4 +80,4 @@ Install metadata for nb lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:23:20Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:39:40Z._
