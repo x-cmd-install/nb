@@ -1,0 +1,233 @@
+- repo: homebrew
+  srcname: nb
+  visiblename: nb
+  version: 7.25.5
+  origversion: null
+  status: newest
+  summary: Command-line and local web note-taking, bookmarking, and archiving
+- repo: homebrew
+  srcname: nb
+  visiblename: nb
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line and local web note-taking, bookmarking, and archiving
+- repo: alpine_edge
+  subrepo: testing
+  srcname: nb
+  binname: nb
+  visiblename: nb
+  version: 7.24.1
+  origversion: 7.24.1-r0
+  status: outdated
+  summary: Command line note-taking, bookmarking, archiving, and knowledge base application
+  maintainers:
+    - tag.quill@protonmail.com
+  licenses:
+    - AGPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: testing
+  srcname: nb
+  binname: nb-bash-completion
+  visiblename: nb-bash-completion
+  version: 7.24.1
+  origversion: 7.24.1-r0
+  status: outdated
+  summary: Bash completions for nb
+  maintainers:
+    - tag.quill@protonmail.com
+  licenses:
+    - AGPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: testing
+  srcname: nb
+  binname: nb-doc
+  visiblename: nb-doc
+  version: 7.24.1
+  origversion: 7.24.1-r0
+  status: outdated
+  summary: Command line note-taking, bookmarking, archiving, and knowledge base application (documentation)
+  maintainers:
+    - tag.quill@protonmail.com
+  licenses:
+    - AGPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: testing
+  srcname: nb
+  binname: nb-fish-completion
+  visiblename: nb-fish-completion
+  version: 7.24.1
+  origversion: 7.24.1-r0
+  status: outdated
+  summary: Fish completions for nb
+  maintainers:
+    - tag.quill@protonmail.com
+  licenses:
+    - AGPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: testing
+  srcname: nb
+  binname: nb-full
+  visiblename: nb-full
+  version: 7.24.1
+  origversion: 7.24.1-r0
+  status: outdated
+  summary: More utilities that integrate with nb
+  maintainers:
+    - tag.quill@protonmail.com
+  licenses:
+    - AGPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: testing
+  srcname: nb
+  binname: nb-zsh-completion
+  visiblename: nb-zsh-completion
+  version: 7.24.1
+  origversion: 7.24.1-r0
+  status: outdated
+  summary: Zsh completions for nb
+  maintainers:
+    - tag.quill@protonmail.com
+  licenses:
+    - AGPL-3.0-or-later
+- repo: altsisyphus
+  srcname: nb
+  binnames:
+    - nb
+  visiblename: nb
+  version: 7.20.1
+  origversion: 7.20.1-alt1.gitb1f81f9b
+  status: outdated
+  summary: Command line note-taking, bookmarking, and archiving with encryption, search, and Git syncing
+  maintainers:
+    - liannnix@altlinux.org
+  licenses:
+    - AGPL-3.0
+  categories:
+    - Office
+- repo: aur
+  srcname: nb
+  binname: nb
+  visiblename: nb
+  version: 7.25.5
+  origversion: 7.25.5-1
+  status: newest
+  summary: A command-line note-taking, bookmarking, archiving, and knowledge base application
+  maintainers:
+    - gilcu3@aur
+  licenses:
+    - AGPL-3.0-or-later
+- repo: aur
+  srcname: nb-git
+  binname: nb-git
+  visiblename: nb-git
+  version: 5.7.8.r657.gaa244add
+  origversion: 5.7.8.r657.gaa244add-1
+  status: rolling
+  summary: A command line note-taking, bookmarking, archiving, and knowledge base application - Git version
+  maintainers:
+    - bachoseven@aur
+  licenses:
+    - AGPL3
+- repo: macports
+  srcname: office/nb
+  binname: nb
+  visiblename: nb
+  version: 7.25.5
+  origversion: null
+  status: newest
+  summary: nb is a command line and local web note‑taking, bookmarking, archiving, and knowledge base application.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - AGPL-3
+  categories:
+    - office
+- repo: nix_stable_24_05
+  srcname: nb
+  visiblename: nb
+  version: 7.12.1
+  origversion: null
+  status: outdated
+  summary: A command line note-taking, bookmarking, archiving, and knowledge base application
+  maintainers:
+    - nixpkgs@toonn.io
+  licenses:
+    - AGPL-3.0-or-later
+- repo: nix_stable_24_11
+  srcname: nb
+  visiblename: nb
+  version: 7.14.4
+  origversion: null
+  status: outdated
+  summary: Command line note-taking, bookmarking, archiving, and knowledge base application
+  maintainers:
+    - nixpkgs@toonn.io
+  licenses:
+    - AGPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: nb
+  visiblename: nb
+  version: 7.17.0
+  origversion: null
+  status: outdated
+  summary: Command line note-taking, bookmarking, archiving, and knowledge base application
+  maintainers:
+    - nixpkgs@toonn.io
+  licenses:
+    - AGPL-3.0-or-later
+- repo: nix_stable_25_11
+  srcname: nb
+  visiblename: nb
+  version: 7.23.2
+  origversion: null
+  status: outdated
+  summary: Command line note-taking, bookmarking, archiving, and knowledge base application
+  maintainers:
+    - nixpkgs@toonn.io
+  licenses:
+    - AGPL-3.0-or-later
+- repo: nix_stable_26_05
+  srcname: nb
+  visiblename: nb
+  version: 7.25.4
+  origversion: null
+  status: outdated
+  summary: Command line note-taking, bookmarking, archiving, and knowledge base application
+  maintainers:
+    - prc.zhao@outlook.com
+    - nixpkgs@toonn.io
+  licenses:
+    - AGPL-3.0-or-later
+- repo: nix_unstable
+  srcname: nb
+  visiblename: nb
+  version: 7.25.5
+  origversion: null
+  status: newest
+  summary: Command line note-taking, bookmarking, archiving, and knowledge base application
+  maintainers:
+    - prc.zhao@outlook.com
+    - nixpkgs@toonn.io
+  licenses:
+    - AGPL-3.0-or-later
+- repo: slackbuilds
+  srcname: office/nb
+  visiblename: office/nb
+  version: 7.25.4
+  origversion: null
+  status: outdated
+  maintainers:
+    - dansimon@radiotube.org
+  categories:
+    - office
+- repo: spack
+  srcname: nb
+  visiblename: nb
+  version: 7.12.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - taliaferro@spack
+  licenses:
+    - AGPL-3.0
