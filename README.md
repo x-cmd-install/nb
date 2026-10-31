@@ -14,11 +14,11 @@ x install nb
 
 ## Code insight
 
-Total: **25,591** lines of code across **41** files in the top 5 languages.
+Total: **25,822** lines of code across **41** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Bash | 23,259 | 2,138 | 3,152 | 14 |
+| Bash | 23,490 | 2,161 | 3,163 | 14 |
 | Html | 881 | 39 | 105 | 18 |
 | Go | 595 | 158 | 165 | 7 |
 | Sass | 500 | 21 | 127 | 1 |
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `7.25.5` (2026-08-12)
-- **Last commit**: 2026-08-22
+- **Latest**: `7.25.6` (2026-10-31)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 1
 
 ## Popularity
@@ -52,24 +52,24 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 44 · **Open PRs**: 9 · **Closed issues**: 187 · **Open issues**: 145 · **Commits**: 7852
+- **Releases**: 21 · **Merged PRs**: 44 · **Open PRs**: 9 · **Closed issues**: 187 · **Open issues**: 145 · **Commits**: 7871
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-08-01 | 1 | 0 | 0 | 0 | 4 | 22 |
-| last180d | 2026-05-03 | 1 | 0 | 0 | 0 | 4 | 24 |
-| 360d | 2025-11-04 | 9 | 1 | 3 | 9 | 21 | 82 |
-| last720d | 2024-11-09 | 20 | 14 | 5 | 30 | 34 | 294 |
+| 30d | 2026-10-01 | 1 | 0 | 0 | 0 | 1 | 5 |
+| last60d | 2026-09-01 | 1 | 0 | 0 | 0 | 3 | 5 |
+| 90d | 2026-08-02 | 2 | 0 | 0 | 0 | 4 | 41 |
+| last180d | 2026-05-04 | 2 | 0 | 0 | 0 | 4 | 43 |
+| 360d | 2025-11-05 | 10 | 1 | 3 | 9 | 21 | 101 |
+| last720d | 2024-11-10 | 21 | 14 | 5 | 30 | 34 | 313 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [nb](https://github.com/xwmx/nb/releases/download/7.25.5/nb) | 737.9 KiB | `other` |
+| [nb](https://github.com/xwmx/nb/releases/download/7.25.6/nb) | 747.0 KiB | `other` |
 
 ## Distribution status
 
@@ -90,4 +90,4 @@ Install metadata for nb lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:06:47Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:57:22Z._
