@@ -1,17 +1,14 @@
-- repo: homebrew
+- repo: nix_stable_25_11
   srcname: nb
   visiblename: nb
-  version: 7.25.5
+  version: 7.23.2
   origversion: null
-  status: newest
-  summary: Command-line and local web note-taking, bookmarking, and archiving
-- repo: homebrew
-  srcname: nb
-  visiblename: nb
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Command-line and local web note-taking, bookmarking, and archiving
+  status: outdated
+  summary: Command line note-taking, bookmarking, archiving, and knowledge base application
+  maintainers:
+    - nixpkgs@toonn.io
+  licenses:
+    - AGPL-3.0-or-later
 - repo: alpine_edge
   subrepo: testing
   srcname: nb
@@ -111,7 +108,7 @@
   visiblename: nb
   version: 7.25.5
   origversion: 7.25.5-1
-  status: newest
+  status: outdated
   summary: A command-line note-taking, bookmarking, archiving, and knowledge base application
   maintainers:
     - gilcu3@aur
@@ -129,13 +126,27 @@
     - bachoseven@aur
   licenses:
     - AGPL3
+- repo: homebrew
+  srcname: nb
+  visiblename: nb
+  version: 7.25.6
+  origversion: null
+  status: newest
+  summary: Command-line and local web note-taking, bookmarking, and archiving
+- repo: homebrew
+  srcname: nb
+  visiblename: nb
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line and local web note-taking, bookmarking, and archiving
 - repo: macports
   srcname: office/nb
   binname: nb
   visiblename: nb
   version: 7.25.5
   origversion: null
-  status: newest
+  status: outdated
   summary: nb is a command line and local web note‑taking, bookmarking, archiving, and knowledge base application.
   maintainers:
     - herbygillot@github
@@ -176,17 +187,6 @@
     - nixpkgs@toonn.io
   licenses:
     - AGPL-3.0-or-later
-- repo: nix_stable_25_11
-  srcname: nb
-  visiblename: nb
-  version: 7.23.2
-  origversion: null
-  status: outdated
-  summary: Command line note-taking, bookmarking, archiving, and knowledge base application
-  maintainers:
-    - nixpkgs@toonn.io
-  licenses:
-    - AGPL-3.0-or-later
 - repo: nix_stable_26_05
   srcname: nb
   visiblename: nb
@@ -204,7 +204,7 @@
   visiblename: nb
   version: 7.25.5
   origversion: null
-  status: newest
+  status: outdated
   summary: Command line note-taking, bookmarking, archiving, and knowledge base application
   maintainers:
     - prc.zhao@outlook.com

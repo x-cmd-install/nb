@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 764929,
       "digest": "sha256:f029e0502bbd86dab4afcd6dd6ac68672b5f70a60abd2b4149f20b4c917d3d83",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-10-31T02:35:19Z",
       "updated_at": "2026-10-31T02:35:19Z",
       "browser_download_url": "https://github.com/xwmx/nb/releases/download/7.25.6/nb"
