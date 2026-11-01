@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,461 · **Forks**: 257 · **Open issues**: 332 · **Contributors**: 31
+- **Stars**: 8,461 · **Forks**: 258 · **Open issues**: 332 · **Contributors**: 31
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 0 | 0 | 0 | 1 | 5 |
-| last60d | 2026-09-01 | 1 | 0 | 0 | 0 | 3 | 5 |
-| 90d | 2026-08-02 | 2 | 0 | 0 | 0 | 4 | 41 |
-| last180d | 2026-05-04 | 2 | 0 | 0 | 0 | 4 | 43 |
-| 360d | 2025-11-05 | 10 | 1 | 3 | 9 | 21 | 101 |
-| last720d | 2024-11-10 | 21 | 14 | 5 | 30 | 34 | 313 |
+| 30d | 2026-10-02 | 1 | 0 | 0 | 0 | 1 | 5 |
+| last60d | 2026-09-02 | 1 | 0 | 0 | 0 | 3 | 5 |
+| 90d | 2026-08-03 | 2 | 0 | 0 | 0 | 4 | 41 |
+| last180d | 2026-05-05 | 2 | 0 | 0 | 0 | 4 | 43 |
+| 360d | 2025-11-06 | 10 | 1 | 3 | 9 | 21 | 100 |
+| last720d | 2024-11-11 | 21 | 14 | 5 | 30 | 34 | 313 |
 
 ## Release assets
 
@@ -73,12 +73,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/nb). **4** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/nb). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `7.25.5` | ✅ latest |
-| Nix unstable | `7.25.5` | ✅ latest |
+| Homebrew | `7.25.6` | ✅ latest |
+| Nix unstable | `7.25.5` | ⚠️ outdated |
 | Alpine edge | `7.24.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -90,4 +90,4 @@ Install metadata for nb lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:57:22Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:30:54Z._
