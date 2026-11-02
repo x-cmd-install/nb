@@ -106,9 +106,9 @@
   srcname: nb
   binname: nb
   visiblename: nb
-  version: 7.25.5
-  origversion: 7.25.5-1
-  status: outdated
+  version: 7.25.6
+  origversion: 7.25.6-1
+  status: newest
   summary: A command-line note-taking, bookmarking, archiving, and knowledge base application
   maintainers:
     - gilcu3@aur
