@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `7.25.6` (2026-10-31)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-02
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 8,461 · **Forks**: 258 · **Open issues**: 332 · **Contributors**: 31
+- **Stars**: 8,462 · **Forks**: 258 · **Open issues**: 332 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 44 · **Open PRs**: 9 · **Closed issues**: 187 · **Open issues**: 145 · **Commits**: 7871
+- **Releases**: 21 · **Merged PRs**: 44 · **Open PRs**: 9 · **Closed issues**: 187 · **Open issues**: 145 · **Commits**: 7872
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 0 | 0 | 0 | 1 | 5 |
-| last60d | 2026-09-02 | 1 | 0 | 0 | 0 | 3 | 5 |
-| 90d | 2026-08-03 | 2 | 0 | 0 | 0 | 4 | 41 |
-| last180d | 2026-05-05 | 2 | 0 | 0 | 0 | 4 | 43 |
-| 360d | 2025-11-06 | 10 | 1 | 3 | 9 | 21 | 100 |
-| last720d | 2024-11-11 | 21 | 14 | 5 | 30 | 34 | 313 |
+| 30d | 2026-10-03 | 1 | 0 | 0 | 0 | 1 | 6 |
+| last60d | 2026-09-03 | 1 | 0 | 0 | 0 | 3 | 6 |
+| 90d | 2026-08-04 | 2 | 0 | 0 | 0 | 4 | 42 |
+| last180d | 2026-05-06 | 2 | 0 | 0 | 0 | 4 | 44 |
+| 360d | 2025-11-07 | 9 | 1 | 3 | 9 | 21 | 101 |
+| last720d | 2024-11-12 | 21 | 14 | 5 | 30 | 34 | 314 |
 
 ## Release assets
 
@@ -73,7 +73,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/nb). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/nb). **2** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -90,4 +90,4 @@ Install metadata for nb lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:30:54Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:33:20Z._
