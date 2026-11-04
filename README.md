@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 0 | 0 | 0 | 1 | 6 |
-| last60d | 2026-09-04 | 1 | 0 | 0 | 0 | 3 | 6 |
-| 90d | 2026-08-05 | 2 | 0 | 0 | 0 | 4 | 42 |
-| last180d | 2026-05-07 | 2 | 0 | 0 | 0 | 4 | 44 |
-| 360d | 2025-11-08 | 9 | 1 | 3 | 9 | 21 | 101 |
-| last720d | 2024-11-13 | 21 | 14 | 5 | 30 | 34 | 314 |
+| 30d | 2026-10-05 | 1 | 0 | 0 | 0 | 1 | 6 |
+| last60d | 2026-09-05 | 1 | 0 | 0 | 0 | 3 | 6 |
+| 90d | 2026-08-06 | 2 | 0 | 0 | 0 | 4 | 42 |
+| last180d | 2026-05-08 | 2 | 0 | 0 | 0 | 4 | 44 |
+| 360d | 2025-11-09 | 9 | 1 | 3 | 9 | 21 | 101 |
+| last720d | 2024-11-14 | 21 | 14 | 5 | 30 | 34 | 314 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for nb lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:26:52Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:47:35Z._
