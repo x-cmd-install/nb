@@ -1,14 +1,23 @@
-- repo: nix_stable_25_11
-  srcname: nb
-  visiblename: nb
-  version: 7.23.2
+- repo: slackbuilds
+  srcname: office/nb
+  visiblename: office/nb
+  version: 7.25.4
   origversion: null
   status: outdated
-  summary: Command line note-taking, bookmarking, archiving, and knowledge base application
   maintainers:
-    - nixpkgs@toonn.io
+    - dansimon@radiotube.org
+  categories:
+    - office
+- repo: spack
+  srcname: nb
+  visiblename: nb
+  version: 7.12.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - taliaferro@spack
   licenses:
-    - AGPL-3.0-or-later
+    - AGPL-3.0
 - repo: alpine_edge
   subrepo: testing
   srcname: nb
@@ -144,9 +153,9 @@
   srcname: office/nb
   binname: nb
   visiblename: nb
-  version: 7.25.5
+  version: 7.25.6
   origversion: null
-  status: outdated
+  status: newest
   summary: nb is a command line and local web note‑taking, bookmarking, archiving, and knowledge base application.
   maintainers:
     - herbygillot@github
@@ -187,6 +196,17 @@
     - nixpkgs@toonn.io
   licenses:
     - AGPL-3.0-or-later
+- repo: nix_stable_25_11
+  srcname: nb
+  visiblename: nb
+  version: 7.23.2
+  origversion: null
+  status: outdated
+  summary: Command line note-taking, bookmarking, archiving, and knowledge base application
+  maintainers:
+    - nixpkgs@toonn.io
+  licenses:
+    - AGPL-3.0-or-later
 - repo: nix_stable_26_05
   srcname: nb
   visiblename: nb
@@ -211,23 +231,3 @@
     - nixpkgs@toonn.io
   licenses:
     - AGPL-3.0-or-later
-- repo: slackbuilds
-  srcname: office/nb
-  visiblename: office/nb
-  version: 7.25.4
-  origversion: null
-  status: outdated
-  maintainers:
-    - dansimon@radiotube.org
-  categories:
-    - office
-- repo: spack
-  srcname: nb
-  visiblename: nb
-  version: 7.12.1
-  origversion: null
-  status: outdated
-  maintainers:
-    - taliaferro@spack
-  licenses:
-    - AGPL-3.0
